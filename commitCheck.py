@@ -40,7 +40,7 @@ def check_for_new_commits(repo_name, access_token):
 if __name__ == "__main__":
     # Replace 'your_repo' with the repository name and 'your_access_token' with your GitHub access token
     repo_name = "JyotiChauhan24/CI-CD-PipelineDevops"
-    access_token = "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"
+    access_token = ""
 
     check_for_new_commits(repo_name, access_token)
 
